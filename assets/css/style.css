@@ -50,3 +50,12 @@ h1, h2 {
 #menu a:hover {
     border-bottom: 1px solid darkblue;
 }
+
+/* Hero image */
+
+#hero-image {
+    height: 700px;
+    width: 100%;
+    background: url('../images/pexels-olia-danilevich-8964915.jpg') no-repeat center center;
+    background-size: cover;
+}
