@@ -23,6 +23,8 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 300%;
+    
+    margin-right: 10px;
 }
 
 /* Nav links */
@@ -85,4 +87,30 @@ h1, h2 {
 }
 #cover-text, #cover-text h2 {
     color: white;
+}
+
+/* Meditation section */
+
+#meditation {
+    height: 700px;
+    background-color: darkblue;
+    color: white;
+}
+
+#meditation h1 {
+    color: white;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+#med-text {
+    padding-top: 40px;
+    width: 50%;
+    float: left;   
+}
+
+#med-vid {
+    padding-top: 40px;
+    width: 50%;
+    float: right;
 }
