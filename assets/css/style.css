@@ -253,6 +253,7 @@ header h1, h2 {
 #submit:hover {
     color: darkblue;
     background-color: orange;
+    cursor: pointer;
 }
 
 /* Footer contact section */
