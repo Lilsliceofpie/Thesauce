@@ -193,3 +193,57 @@ h1, h2 {
     padding-right: 20px;
     position: relative;
 }
+
+/* Email section */
+
+#form {
+    background-color: white;
+    height: 350px;
+    text-align: center;
+}
+
+#form h2 {
+    padding-top: 40px;
+}
+
+#form div {
+    color: darkblue;
+    height: 40px;
+    padding-top: 40px;
+    width: 100%;
+}
+
+#fname {
+    background-color: lightgray;
+    outline: none;  
+    height: 40px;
+    width: 200px;
+    font-size: 30px;
+}
+
+#lname {
+    background-color: lightgray;
+    outline: none;
+    height: 40px;
+    width: 200px;
+    font-size: 30px;  
+}
+
+#email {
+    background-color: lightgray;
+    outline: none;
+    height: 40px;
+    width: 200px;
+    font-size: 30px;  
+}
+
+#submit {
+    height: 40px;
+    width: 60px;
+    color: white;
+    margin-top: 20px;
+    background-color: darkblue;
+    border-radius: 50%;
+}
+
+
