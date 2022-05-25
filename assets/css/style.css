@@ -13,7 +13,7 @@ body {
 
 /* Heading and logo */
 
-h1, h2 {
+header h1, h2 {
     font-family: montserrat, open-sans, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -97,7 +97,7 @@ h1, h2 {
     color: white;
 }
 
-#meditation h1 {
+#meditation h2 {
     font-size: 40px;
     color: white;
     padding-top: 20px;
@@ -106,6 +106,7 @@ h1, h2 {
 
 #med-text {
     padding-top: 40px;
+    margin-left: 20px;
     width: 50%;
     float: left; 
     font-size: 30px;  
@@ -113,7 +114,7 @@ h1, h2 {
 
 #med-vid {
     padding-top: 50px;
-    width: 50%;
+    width: 40%;
     float: right;
     
 }
@@ -132,7 +133,7 @@ h1, h2 {
     color: darkblue;
 }
 
-#breathwork h1 {
+#breathwork h2 {
     font-size: 40px;
     color: darkblue;
     padding-top: 20px;
@@ -141,6 +142,7 @@ h1, h2 {
 
 #breath-text {
     padding-top: 40px;
+    margin-left: 20px;
     width: 50%;
     float: left; 
     font-size: 30px;  
@@ -148,7 +150,7 @@ h1, h2 {
 
 #breath-vid {
     padding-top: 50px;
-    width: 50%;
+    width: 40%;
     float: right;
     
 }
@@ -167,7 +169,7 @@ h1, h2 {
     color: white;
 }
 
-#calesthenics h1 {
+#calesthenics h2 {
     font-size: 40px;
     color: white;
     padding-top: 20px;
@@ -178,12 +180,13 @@ h1, h2 {
     padding-top: 40px;
     width: 50%;
     float: left; 
+    margin-left: 20px;
     font-size: 30px;  
 }
 
 #cal-vid {
     padding-top: 50px;
-    width: 50%;
+    width: 40%;
     float: right;
     
 }
@@ -198,7 +201,7 @@ h1, h2 {
 
 #form {
     background-color: white;
-    height: 350px;
+    height: 400px;
     text-align: center;
 }
 
@@ -244,6 +247,43 @@ h1, h2 {
     margin-top: 20px;
     background-color: darkblue;
     border-radius: 50%;
+    font-size: 15px;
+}
+
+#submit:hover {
+    color: darkblue;
+    background-color: orange;
+}
+
+/* Footer contact section */
+
+footer {
+    text-align: center;
+    height: 200px;
+    background-color: darkblue;
+}
+footer h2 {
+    padding-top: 20px;
+    color: white;
+}
+
+footer p {
+    padding-top: 20px;
+    color: white;
 }
 
 
+.socials {
+    text-align: center;
+}
+
+.socials > li {
+    display: inline;
+}
+
+i {
+    margin-top: 20px;
+    margin: 20px;
+    font-size: 200%;
+    color: white;
+}
