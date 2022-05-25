@@ -158,3 +158,38 @@ h1, h2 {
     padding-right: 20px;
     position: relative;
 }
+
+/* Calesthenics section */
+
+#calesthenics {
+    height: 700px;
+    background-color: darkblue;
+    color: white;
+}
+
+#calesthenics h1 {
+    font-size: 40px;
+    color: white;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+#cal-text {
+    padding-top: 40px;
+    width: 50%;
+    float: left; 
+    font-size: 30px;  
+}
+
+#cal-vid {
+    padding-top: 50px;
+    width: 50%;
+    float: right;
+    
+}
+
+#cal-vid video {
+    float: right;
+    padding-right: 20px;
+    position: relative;
+}
