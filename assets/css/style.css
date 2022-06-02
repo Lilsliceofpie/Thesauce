@@ -350,7 +350,12 @@ i {
         width: 100%;
         height: 1200px;
         margin: 0 auto;
-        line-height: 30px;
+        line-height: 25px;
+        letter-spacing: 2px;
+    }
+
+    #med-text, #breath-text, #cal-text {
+        padding-top: 5px;
     }
 
     h1, h2 {
