@@ -1,7 +1,7 @@
 # Health = Wealth
 Health = Wealth is a webpage that hopes to teach people self improvement techniques. The site will be targeted towards people who are interested in learning self development methods. Health = Wealth will be useful for people who want to take a holistic approach to improve their physical and mental health
 
-![](assets/screenshots/Screenshot%20(8).png)
+![](assets/screenshots/Screenshot%20(21).png)
 
 ## Features
 * ### Navigation
@@ -43,15 +43,28 @@ Health = Wealth is a webpage that hopes to teach people self improvement techniq
 ![](assets/screenshots/Screenshot%20(15).png)
 
 ## Testing
-
+1. I tested that the site works in different browsers: chrome, Internet explorer, DuckDuckGo.
+2. I confimed that the site is responsive and functions on all standard screen sizes using Dev. tools.
+3. I confirmed that all sections of the site are readable and easy to understand.
+4. I confirmed that the form works as intended: Can't submit a blank form and will only accept email in email field.
 
 ## Bugs
-
+1. Initially HTML would not validate because of spaces in my video filenames. Removing the spaces fixed the issue.
 
 ## Validator testing
+1. HTML: No errors were returned when passed through the official W3C validator.
+2. CSS: No errors were returned when passed through the official (jigsaw) validator.
+3. Accessibility: Confirmed that colours and fonts chosen are easy to read and accessible by running it through lighthouse in Dev. tools.
 
 
 ## Deployment
-
+1. The site was deployed to GitHub pages. The live link can be found here
+__-https://lilsliceofpie.github.io/Thesauce/__
 
 ## Credits
+1. The @import code at the top of style.css was taken from the CI Love Running Project.
+2. Part of the code to make social media links was taken from the CI Love Running Project.
+3. The image in the header was taken from Pexels
+4. The video in the Meditation section was taken from the Youtube channel "Goodful"
+5. The video in the Breathwork section was taken from the Youtube channel "Wim Hof"
+6. The video in the Calesthenics section was taken from the Youtube channel "THENX"
