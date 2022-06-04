@@ -64,7 +64,7 @@ __-https://lilsliceofpie.github.io/Thesauce/__
 
 ## Credits
 1. Some of the code at the top of style.css was taken from the CI Love Running Project.
-2. Meta tags in Header and Part of the code to make social media links in Footer was taken from the CI Love Running Project.
+2. Meta tags in HTML Header and Part of the code to make social media links in Footer was taken from the CI Love Running Project.
 3. The image in the header was taken from Pexels
 4. The video in the Meditation section was taken from the Youtube channel "Goodful"
 5. The video in the Breathwork section was taken from the Youtube channel "Wim Hof"
