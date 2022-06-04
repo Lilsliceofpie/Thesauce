@@ -56,6 +56,7 @@ Health = Wealth is a webpage that hopes to teach people self improvement techniq
 2. CSS: No errors were returned when passed through the official (jigsaw) validator.
 3. Accessibility: Confirmed that colours and fonts chosen are easy to read and accessible by running it through lighthouse in Dev. tools.
 
+![](assets/screenshots/Screenshot%20(26).png)
 
 ## Deployment
 1. The site was deployed to GitHub pages. The live link can be found here
